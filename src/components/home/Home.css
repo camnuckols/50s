@@ -1,0 +1,30 @@
+
+.Home-container {
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.Home-title {
+    text-align: left;
+}
+.Home-50s-checkbox-container {
+    display: flex;
+    justify-content: space-around;
+}
+.Home-radio {
+    margin-right: 25px;
+}
+.Home-submit-button {
+    height: 50px;
+    margin-top: 25px;
+    width: 40%;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.Home-google-form {
+    width: 100%;
+    height: 95%;
+    overflow: hidden;
+    overflow-y: scroll;
+    position: relative;
+}

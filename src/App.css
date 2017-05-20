@@ -1,0 +1,52 @@
+.App-container {
+    background-color: #E8F1F2;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+    overflow-y: scroll;
+    position: fixed;
+    top: 0px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #247BA0;
+}
+
+button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: #13293D;
+  /*border: .01px solid #247BA0;*/
+  border: none;
+  /*border-right: 1px solid #247BA0;*/
+  color: white;
+  outline: none;
+}
+.Coming-soon {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+ul {
+  padding: 0px;
+}
+
+/* Mobile */
+@media ( max-width: 500px ) {}
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {}
+
+/* Larger than tablet */
+@media (min-width: 750px) {}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}

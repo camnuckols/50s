@@ -36,6 +36,16 @@ ul {
   padding: 0px;
 }
 
+.get-motivation {
+  margin-left: 25px;
+  width: 50%;
+  height: 10%;
+  margin-top: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px;
+}
+
 /* Mobile */
 @media ( max-width: 500px ) {}
 

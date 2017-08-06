@@ -20,9 +20,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "description": "50's is a Nuckols family exercise competition PWA built primarily for mobile",
   "main": "index.js",
   "keywords": [],
-  "author": "",
+  "author": "Cameron Nuckols",
   "license": "ISC"
 }

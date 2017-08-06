@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './Leaderboard.css';
 
 class Leaderboard extends Component {
   render() {

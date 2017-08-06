@@ -18,9 +18,7 @@ button {
   -webkit-appearance: none;
   -moz-appearance: none;
   background-color: #13293D;
-  /*border: .01px solid #247BA0;*/
   border: none;
-  /*border-right: 1px solid #247BA0;*/
   color: white;
   outline: none;
 }
@@ -54,17 +52,3 @@ ul {
     top: 335px;
     margin-left: 25px;
 }
-/* Mobile */
-@media ( max-width: 500px ) {}
-
-/* Larger than phablet (also point when grid becomes active) */
-@media (min-width: 550px) {}
-
-/* Larger than tablet */
-@media (min-width: 750px) {}
-
-/* Larger than desktop */
-@media (min-width: 1000px) {}
-
-/* Larger than Desktop HD */
-@media (min-width: 1200px) {}
